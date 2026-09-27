@@ -87,11 +87,11 @@ Compared sales distribution across different payment methods.
 
 ---
 
-## 📊 Dashboard
+## 📊 Dashboard Preview
 
-The final dashboard provides an interactive view of retail sales performance with visualizations, KPI cards, charts, and filters.
+The following dashboard provides an interactive view of Indian retail sales performance using KPI cards, charts, filters, and data visualizations.
 
-> Dashboard screenshot will be added to this repository.
+![Indian Retail Sales Analysis Dashboard](Indian_Retail_Sales_Analysis.png)
 
 ---
 
