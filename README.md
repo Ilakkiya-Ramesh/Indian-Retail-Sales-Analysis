@@ -95,6 +95,25 @@ The following dashboard provides an interactive view of Indian retail sales perf
 
 ---
 
+## 📁 Project Files
+
+| File | Description |
+|---|---|
+| 📊 `Indian_Retail_Sales_Analysis.pbix` | Power BI dashboard project file |
+| 🖼️ `Indian_Retail_Sales_Analysis.png` | Final dashboard preview |
+| 📄 `README.md` | Project documentation |
+
+---
+
+## 🚀 How to Use
+
+1. Download the `.pbix` file from this repository.
+2. Open the file using Microsoft Power BI Desktop.
+3. Explore the dashboard using the available filters and visualizations.
+4. Review the KPIs and insights presented in the report.
+
+> **Note:** Power BI Desktop is required to open the `.pbix` file.
+
 ## 💡 Business Value
 
 The analysis demonstrates how Power BI can be used to transform raw sales data into interactive business intelligence dashboards.
@@ -109,6 +128,17 @@ The dashboard can help business users:
 - Support data-driven decision-making
 
 ---
+
+## 📌 Project Summary
+
+| Category | Details |
+|---|---|
+| Project Type | Data Analytics & Business Intelligence |
+| Domain | Retail Sales |
+| Tool | Microsoft Power BI |
+| Data Analysis | Sales, Orders, Quantity, Products, Categories, Regions, States |
+| Visualization | KPI Cards, Charts, Filters, Interactive Dashboard |
+| Objective | Identify sales trends and business patterns |
 
 ## 🚀 Skills Demonstrated
 
